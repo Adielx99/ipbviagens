@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+<<<<<<< HEAD
+        
+=======
+>>>>>>> 02873ab05bdaf9fb3aaef7c23d08d105f2de0d31
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+<<<<<<< HEAD
+            "url": "http://localhost:80/dweb_parte_final/dweb-part-3-group-05/ipbviagens/web",
+=======
+            "url": "http://localhost:80/projetoFinal/dweb-part-3-group-05/ipbviagens/web",
+>>>>>>> 02873ab05bdaf9fb3aaef7c23d08d105f2de0d31
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
